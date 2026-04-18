@@ -3,16 +3,16 @@
 A real-time, multithreaded embedded C application running on QNX RTOS that implements a deterministic closed-loop control system. The system reads feedback from a Hall sensor, processes it through a PID controller, and drives a DC motor via PWM using GPIO on Raspberry Pi 4.
 ---
 ## Features
- Real-time closed-loop control using feedback
- PID controller (Proportional + Integral + Derivative)
- Deterministic execution with 10ms fixed control loop
- Multithreaded design (Sensor, Controller, Actuator)
- Priority-based scheduling using SCHED_RR
- Direction control (Forward / Reverse / Stop)
- LED visualization for system state
- CSV logging for analysis (/tmp/log.csv)
- Safe shutdown with GPIO reset on termination
- Mutex-based shared memory communication
+Real-time closed-loop control using feedback
+PID controller (Proportional + Integral + Derivative)
+Deterministic execution with 10ms fixed control loop
+Multithreaded design (Sensor, Controller, Actuator)
+Priority-based scheduling using SCHED_RR
+Direction control (Forward / Reverse / Stop)
+LED visualization for system state
+CSV logging for analysis (/tmp/log.csv)
+Safe shutdown with GPIO reset on termination
+Mutex-based shared memory communication
  ---
 ## Hardware Requirements
 Raspberry Pi 4
@@ -94,3 +94,5 @@ Uses Hall sensor (single channel)
 Cannot detect direction inherently
 Reverse control is approximated using software logic
 ---
+
+https://drive.google.com/file/d/1bu9psArqC7LTX9GLWT17GY8yeirsVcNf/view?usp=drivesdk

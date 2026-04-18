@@ -95,4 +95,4 @@ Cannot detect direction inherently
 Reverse control is approximated using software logic
 ---
 
-https://drive.google.com/file/d/1bu9psArqC7LTX9GLWT17GY8yeirsVcNf/view?usp=drivesdk
+![IMG 3776](https://drive.google.com/file/d/1bu9psArqC7LTX9GLWT17GY8yeirsVcNf/view?usp=drivesdk)

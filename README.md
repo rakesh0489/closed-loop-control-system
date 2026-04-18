@@ -95,4 +95,4 @@ Cannot detect direction inherently
 Reverse control is approximated using software logic
 ---
 
-![IMG 3776](https://drive.google.com/file/d/1bu9psArqC7LTX9GLWT17GY8yeirsVcNf/view?usp=drivesdk)
+![IMG 3776](https://github.com/rakesh0489/closed-loop-control-system/blob/main/WhatsApp%20Image%202026-04-18%20at%209.24.59%20AM.jpeg)

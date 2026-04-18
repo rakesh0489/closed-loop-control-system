@@ -1,0 +1,196 @@
+ELF          ·                    X.          @     @   ý{·©ý ‘à ¹á
+ ù     @ù @ùáG ù €Òäƒ ‘ã
+@ùâ@¹     ‘àª   ”àƒ ‘   ” Õ     @ùâG@ù @ùB ë €Ò@  T   ”ý{É¨À_Öý{½©ý ‘à ¹ Ä‰Rà' ¹à@¹  qÌ  T     ‘ €R   ”$  á'@¹à@¹ | á£Ra=ªr|!›!ü`Ó!| |   Kà+ ¹á'@¹à+@¹   Kà/ ¹ÿ# ¹       ‘ €R   ”à+@¹   ”     ‘ €R   ”à/@¹   ”à#@¹  à# ¹à#@¹ qíýÿTý{Ã¨À_ÖÿƒÑý{©ýƒ ‘      ‘  @ù  ñÁ T     ‘      ‘   ”á ª      ‘  ù      ‘  @ù  ñ` T      ‘ @ù     ‘àª   ”     @ù   ”     @ù @¹à? ¹     @ù @¹àC ¹     @ù  @¹àG ¹     @ù @¹àK ¹     @ù   ”àC@¹  q€  Tà?@¹  qÁ T     ‘ €R   ”     ‘ €R   ”     ‘`€R   ”  àC@¹ qA T     ‘ €R   ”     ‘`€R   ”	       ‘ €R   ”     ‘`€R   ”à?@¹   ”àC@¹ qàŸ  àO ¹àC@¹ 1àŸ  àS ¹à?@¹  qÍ  Tà?@¹œ ql  T  €R    €RàW ¹à?@¹œ qÍ  Tà?@¹ql  T  €R    €Rà[ ¹à?@¹qà×Ÿ  à_ ¹àO@¹  q€  T      ‘        ‘á ª  €R   ”àS@¹  q€  T      ‘        ‘á ªÀ €R   ”àW@¹  q€  T      ‘        ‘á ª€€R   ”à[@¹  q€  T      ‘        ‘á ª €R   ”à_@¹  q€  T      ‘        ‘á ª€€R   ”      ‘ @ùà_@¹à ¹à[@¹à
+ ¹àW@¹à ¹çS@¹æO@¹åC@¹ä?@¹ãG@¹âK@¹     ‘àª   ”      ‘  @ù   ”äC@¹ã?@¹âG@¹áK@¹      ‘   ”     @ù   ”   Õý{B©ÿƒ‘À_Ö    gpio-bcm2711 set %d %s  dl      dh      w       /tmp/log.csv    Setpoint,Encoder,Speed,Direction,Green,Red,Blue,Yellow,White
+   %d,%d,%d,%d,%d,%d,%d,%d,%d
+     [CTRL] SP=%d Enc=%d Speed=%d Dir=%d
+ —                           ¬                       kH        int     m<                                 ­       H        ×   __u  •    	    H        °H       ¾	  	    ¾	×    	    ¾	i   	    ¾	i        ¾ã       '      ˆH8      HH        HO       H8      H8      H8      H8       H8  (    H8  0    H=  8    HB  @    H8  H    H8  P    H8  X    H  `    HR  h    HW  p    Hw   r    H“   x    Hg  € w   ×   
+×   R  
+5    3  
+w   g  
+5    
+w   w  
+5        M3      Nw  ƒ      iƒ  .      MV   '       Ò­    	      	O        		O       
+	O       
+	O       
+      
+	O            Â      !      ¶         	            °O   r     
+     O   ˆ         	zO   ž  ž   ¶      	pO   ¹  ž       ¢O   Õ       
+     ¡  ð             JO     ¥       
+ŠO             ¼O   8  ±     
+     /        p      œÎ      <O   ‘\ dir =	O   ‘` enc >	O   ‘d sp ?	O   ‘h    SO   ‘l    TO   ‘p    UO   ‘t    VO   ‘x    WO   ‘| pwm         È       œA      O   ‘l    O   ‘t on $	O   ‘x off %	O   ‘|        P        i 'O   ‘p              t       œŽ   pin O   ‘Œ    $   ‘€ cmd 
+Ž  ‘ !'  
+5   c  
+ :
+;
+9
+I8
+  $ 
+
+>
+   I   :
+;
+9
+I   
+!I  4 :!;
+9!	I   4 :!;
+9
+I  .?:
+;
+9
+'I<  	
+ :
+;9
+I8
+  
+! I/
+  
+I  4 :
+;
+9
+I?<  
+   .?:
+;9!'I<  
+!:
+;9
+   :!;9
+I   :!;
+9
+I  %
+   $ 
+
+>
+   
+
+  
+
+:
+;9
+  
+ :
+;9
+I  
+ :
+;9
+I8
+  & I  
+
+:
+;
+9
+  
+
+:
+;
+9
+  4 :
+;
+9
+I?  .?:
+;
+9
+ @|  .?:
+;
+9
+' @|  
+   .?:
+;
+9
+' @|    :
+;
+9
+I  !I   ,                     ¬                      ç    c   û
+                      
+                                             	        JZu/¯	=0	=K#	<ƒL 	 ! K / K * <B1=</f
+><	0x	>KKKL> <	>KKZ
+=KZK	L1	J!	J!! < < .	  # ! < < .	   !	 J $ < < . = < < . = < < . = < < . = < < . > 3 L vJJ7  GNU C17 12.2.0 -g2 -O0 -fstack-protector-strong -march=armv8-a -fPIE -Asystem(unix) -fmessage-length=0 -fno-builtin fopen _Flock fflush usleep _Cbuf _Next direction mode __count short int led_white _NextFile _Handle prev_error _Uint32t actuator_task led_red pthread_mutex_lock _Buf gpio_set _Wchart float shared_data_t pthread_mutex_unlock long long int long long unsigned int _Filet long int printf integral _Byte _Spare fprintf unsigned char _Back _Stdout _Rback long double _Wstate _GCC_ATTR_ALIGN_u32t duty sprintf _WRend useconds_t logfile _Bend unsigned int period _WBack _Mode speed short unsigned int char _Wchar lock _Rend led_green _Mbstatet data system _WRback long unsigned int led_blue _WWend _Wend signed char __owner encoder _Rsave setpoint FILE _sync_mutex pthread_mutex_t led_yellow _State src/actuator.c C:\Users\Rakesh\ide-8.0-workspace\closed_loop_control_system C:\Users\Rakesh\ide-8.0-workspace\closed_loop_control_system src C:/Users/Rakesh/qnx800/target/qnx/usr/include/sys C:/Users/Rakesh/qnx800/target/qnx/usr/include actuator.c actuator.c compiler_gnu.h platform.h target_nto.h stdio.h unistd.h types.h shared.h pthread.h stdlib.h  GCC: (QNX8.0.0-r4b92872282c47abafd6088b0ba22b83eb9cd9f46-301) 12.2.0           zR x           t    Až[ÞÝ      8       È    A0žpÞÝ        X       p   A`Až ÙÝÞ                                  ñÿ                                                                                                                                                                                                                           	                      
+                      
+                                                                                                                                                               t       #                      5                      =                      D                      U     t       È       Y                      `     <      p      n                      t                      Š                      |                                            ”                      ©                      u                      °                       actuator.c $d $x logfile gpio_set __stack_chk_guard sprintf system __stack_chk_fail pwm usleep actuator_task fopen fprintf pthread_mutex_lock data pthread_mutex_unlock fflush _Stdout        7                    8             0                    4                    <                    D                    L       7             P       8             h                    ”                   ˜                                        ì                    ð                    ø                                                                                                                  H                   L                   \           (       `           (       d           0       h           0       l                   t                   x                   €                   „                   ”                   ˜                               @       ¤           @       ¬                   °      7             ´      8             ¸                   ¼      7              À      8              Ì      7              Ð      8              Ü      7              à      8              ì      7              ð      8              ü      7                    8                     !                              $                  ,                   0                  4                  <                   @                  D                  L                   `                   d                   l                   p                  t                  |                   „                  ˆ                                     ”                   ˜                                       ¨                   D                   H                   P                  T                  `                   p                   t                   |                  €                  Œ                   œ                                       ¨                  ¬                  ¸                   È                   Ì                   Ô                  Ø                  ä                   ô                   ø                                                                                                                 P           €       T           €       \                   `                   d                   l        "           €                   „                   ˆ        #           Œ      7  $                 8  $           ”        "                    
+           
+         
+                                                                      *                    1         
+   €      8         
+          =         
+   å      K         
+   '      W         
+   ã       e         
+   ²       l         
+   N      s         
+   È      z         
+   ®               
+   T      ˆ         
+   b               
+   Ñ                
+   ª       ®         
+   ù      É         
+   Ô      Ø         
+   #      ä         
+   ‚      ñ         
+   f      ÿ         
+   ™      
+        
+                  
+   ‚      *        
+   a      4        
+   y      A        
+   B      N        
+   Ð       [        
+         h        
+   !      u        
+   •       ‚        
+   r              
+   Â      œ        
+   Ê      ©        
+   ˜      ¶        
+   ;      Ã        
+   ä      Ð        
+          Ý        
+   »      ê        
+   Ý      ÷        
+   Æ               
+   ¼              
+                  
+   z       +        
+   Ÿ      x        
+   y      „        
+   ô      •        
+   Â      ¦        
+         ·        
+         Ì        
+   Ü      Ù        
+   H      æ        
+   ›       ó        
+   ë               
+         
+        
+   Ø               
+   +      "        
+   1      .        
+   Œ      :        
+   m      F        
+         S                   \        
+   ‰      s        
+          ‰        
+   ?      ¤        
+         º        
+   ¦      Ö        
+   t       ñ        
+   ˆ                
+   ‘              
+   ÿ      9        
+   ì       @           <      W        
+   H              
+   x      š        
+   ú       §        
+   ²      ´        
+         Á        
+   ¼       Ö           t       í        
+   ú      û        
+   4      #           ä       B        
+         I                   p        
+   ¥                	                               "            L       &            ‰       *                   .            ¿       8            í       =            ø       B                  G                  L                  Q            *      V            2      [            ;      `            C      e            L      j            V      t                                        <            t       \            <       .symtab .strtab .shstrtab .rela.text .data .bss .rodata .rela.debug_info .debug_abbrev .rela.debug_aranges .rela.debug_line .debug_str .debug_line_str .comment .note.GNU-stack .rela.eh_frame                                                                                       @       ¬                                   @               à      h
+                          &                     ì                                     ,                     ð                                    1                     ð      Å                              >                      µ      ›                             9      @               H#      X                          J                      P
+      þ                             ]                      N
+      0                              X      @                +      0          	                 q                      ~
+      ë                             l      @               Ð+      €         
+                 }      0               i      '                            ˆ      0                     _                            ˜      0               ï      F                             ¡                      5                                     ¶                     8      x                              ±      @               P-      H                                                 °      x                          	                      (      ¸                                                    ˜-      À                              

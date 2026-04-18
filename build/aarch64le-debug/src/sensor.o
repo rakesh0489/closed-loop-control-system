@@ -1,0 +1,107 @@
+ELF          ·                    H          @     @   ý{®©ý ‘à ¹     @ù @ùá ù €ÒãÃ ‘â@¹     ‘àª   ”âÃ ‘     ‘àª   ”à ùà@ù  ña  T  €R  àc‘â@ù€R   ”à@ù   ”âc‘     ‘àª   ”  ñà Ÿ  á *     @ùã@ù @ùc ë €Ò@  T   ”à*ý{Ò¨À_Öý{¾©ý ‘À€R   ”à ¹      ‘  @¹ q Tà@¹  q! T      ‘  @¹  q T      ‘  @¹       ‘  ¹      ‘! €R  ¹à@¹ q  T      ‘  ¹      ‘á@¹  ¹      ‘  @¹ý{Â¨À_Ö   gpio-bcm2711 get %d     r       level=1 ¥                           |                        int                               •       <    
+    ¿   __u  }         <        °<   
+    ¾	       ¾	¿         ¾	Q        ¾	Q        ¾Ë             ˆH       H<        HC       H       H       H       H        H   (    H   0    H%  8    H*  @    H   H    H   P    H   X    H  `    H:  h    H?  p    H_   r    H{   x    HO  € _   ¿   ¿   :  5      _   O  5    _   _  5    	    M  	    N_  k      	    Ò•    	ê      	C        		C       
+	C       
+	C       
+ê      
+	C        	    ’  
+    ñ  
+    †  ý  	          
+	        
+     =  P  |  |       C   f  w   
+       †    C   w       w  ¡  |  |   
+    ¼C   ½    |       )C           °       œ-      +C   	            ,C   	            .	C   ‘|    0C   	             C           Ì       œŒ  pin C   ‘ü}cmd 
+Œ  ‘~    œ  ‘ø~fp 
+w  ‘ˆ~   œ  5   c   5     
+ :
+;
+9
+I8
+  $ 
+
+>
+   I   
+!I  ! I/
+  4 :!;
+9
+I   
+ :
+;9
+I8
+  I  	 :
+;
+9
+I  
+.?:
+;
+9
+'I<  
+
+!:
+;9
+   :!;9
+I  
+4 :!;
+9
+I?<  4 G:!;
+9
+  .?:!;9
+'I<  4 :!;
+9
+I  %
+   $ 
+
+>
+   
+
+  
+
+:
+;9
+  
+ :
+;9
+I  
+ :
+;9
+I8
+  & I  
+
+:
+;
+9
+  
+
+:
+;
+9
+     .?:
+;
+9
+I @|  .?:
+;
+9
+'I @|   :
+;
+9
+I  I   ,                     |                      Ê     T   û
+                                                       	        <\ii <1M2*X =‚N2B< ., <  </uN=
+>L= GNU C17 12.2.0 -g2 -O0 -fstack-protector-strong -march=armv8-a -fPIE -Asystem(unix) -fmessage-length=0 -fno-builtin _Flock _Cbuf signed char short int direction pthread_mutex_t __count _NextFile _Handle prev_error _Buf sensor_task _Wchart float shared_data_t long long int _Filet fgets long int debounce _Next read_gpio integral _Spare _Back unsigned char _Rback long double _Wstate sprintf _WRend pclose popen long long unsigned int _Bend unsigned int _WBack _Mode speed last short unsigned int char _Wchar hall lock _Rend _Mbstatet data buffer _WRback long unsigned int _WWend _Byte __owner strstr encoder _Rsave _Wend setpoint FILE _sync_mutex _State src/sensor.c C:\Users\Rakesh\ide-8.0-workspace\closed_loop_control_system C:\Users\Rakesh\ide-8.0-workspace\closed_loop_control_system src C:/Users/Rakesh/qnx800/target/qnx/usr/include/sys C:/Users/Rakesh/qnx800/target/qnx/usr/include sensor.c sensor.c target_nto.h platform.h stdio.h types.h shared.h string.h  GCC: (QNX8.0.0-r4b92872282c47abafd6088b0ba22b83eb9cd9f46-301) 12.2.0             zR x           Ì    A $ž#qÞÝ       8       °    A žjÞÝ                                    ñÿ                                                                                  
+                                            
+                      
+                                                              "     $              
+                                                                       	                      
+                      
+                                                             
+                                                                 ,                    1                   6             Ì       @                      R                      Z                      `                      f                      m                      t                      …     Ì       °        sensor.c $d $x last.2 debounce.1 encoder.0 data lock read_gpio __stack_chk_guard sprintf popen fgets pclose strstr __stack_chk_fail sensor_task               7                    8             (                    ,                    4                    <                   @                   H                    p                    x                    €                    „                    Œ                            7             ¤       8             ¼                     Ø                    à                    ä                                                                      $                  $       $           $       (           $       0                   4                   L                   P                   X                   \                   h           $       l           $                           
+                                                    
+                           *                    1                  8            *      ?            ¸      M                   T            Ý      [                   b            V      i                  p            ›      w            k      ˆ            ±       –            {      ±            I      À            ç       Ì                  Ù            õ      ç            C      õ            ‡                                  ð                       )           Ì      6           Ã       C           Ö       P           ²      ]           0      j                 w           g      „           d      ‘           "      ž           Å      «           `      ¸           ‡      Å           <      Ò           w      ß           ¹       ì           P      ù           {                  t                  I      `                 l           v      ‡           ¡       œ           X      ©           Ò      ¶           —       Ã           m      Ð           @      Ý           Ë       í           ï       ò           õ       þ                 	                                    -                   6           Q      Q           Ž      g                 ‡           •      ¢                 ¾           Û       É           Ì       à           Ø      ì                   õ           X                 $       
+           ü                 '      $                   .           6      9                   o                          
+                               "            J       &            ‡       *            ‹       .            ½       8            ë       =            ô       B            ý       G            
+      L                  Q                  V            %      [            .      e                                        <            Ì        .symtab .strtab .shstrtab .rela.text .data .bss .rodata .rela.debug_info .debug_abbrev .rela.debug_aranges .rela.debug_line .debug_str .debug_line_str .comment .note.GNU-stack .rela.eh_frame                                                                                       @       |                                   @               ˆ                                &                     ¼                                    ,                     À      (                              1                     À      (                              >                      è      ©                             9      @                      P                           J                      ‘      É                             ]                      Z      0                              X      @               ð      0          	                 q                      Š      Î                              l      @                      8         
+                 }      0               X	      Ž                            ˆ      0               æ
+      7                            ˜      0               
+      F                             ¡                      c
+                                     ¶                     h
+      X                              ±      @               X      0                                                 À
+      0                          	                      ð      ‘                                                    ˆ      À                              
